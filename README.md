@@ -1,5 +1,5 @@
 # 🎬 Movie Search & Trending App
-youtube link : [](https://youtu.be/heAWBq6kZnc)
+youtube link : [Movie App React](https://youtu.be/heAWBq6kZnc)
 
 A fast, responsive React app to search movies and discover trending titles based on real user data.
 
