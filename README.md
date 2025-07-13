@@ -2,6 +2,7 @@
 youtube link : [Movie App React](https://youtu.be/heAWBq6kZnc)
 
 A fast, responsive React app to search movies and discover trending titles based on real user data.
+This React-based project allows users to search for movies using the **TMDb API** and displays detailed movie information in a sleek, responsive UI powered by **Tailwind CSS**. It features smart performance improvements like **debounced input** to reduce unnecessary API calls and includes a trending section generated from backend-stored search data, showcasing the most popular movies dynamically.
 
 ---
 
