@@ -47,9 +47,3 @@ This app lets users search movies via the TMDb API with debounced input to minim
 5. The **Trending Movies** carousel dynamically updates based on stored search popularity.
 6. Entire UI is styled with Tailwind CSS for fast, responsive rendering.
 
-## Getting Started
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/movie-search-app.git
-   cd movie-search-app
